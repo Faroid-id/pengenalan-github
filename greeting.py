@@ -1,1 +1,2 @@
-print("Halo Nanda")
+nama = "Nanda"
+print(f"Halo {nama}")
