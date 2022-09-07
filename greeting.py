@@ -1,2 +1,2 @@
-nama = "Nanda"
+nama = input()
 print(f"Halo {nama}")
